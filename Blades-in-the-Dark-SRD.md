@@ -1302,7 +1302,7 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 **Edges**
 
-* **Fearsome: **The cohort is terrifying in aspect and reputation.
+* **Fearsome:** The cohort is terrifying in aspect and reputation.
 * **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
 * **Loyal:** The cohort can’t be bribed or turned against you.
 * **Tenacious:** The cohort won’t be deterred from a task.
